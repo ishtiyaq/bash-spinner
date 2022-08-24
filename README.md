@@ -1,1 +1,1 @@
-# bash-spinner
+# Bash Spinner
