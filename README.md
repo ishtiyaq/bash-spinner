@@ -3,7 +3,7 @@
 Example:
 
 ```bash
-chmod +x spinner.sh
+chmod +x spinner
 
-./spinner.sh sleep 10
+./spinner sleep 10
 ```
